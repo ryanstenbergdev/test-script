@@ -1,5 +1,7 @@
 // File: trust-form.js
 
+console.log("Test trusted-form integration script is running.");
+
 document.write(`
   <!-- TrustedForm -->
   <script type="text/javascript">
