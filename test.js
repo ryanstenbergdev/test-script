@@ -1,6 +1,7 @@
 // File: trust-form.js
 
 (function() {
+  console.log("trusted-form testing");
   document.write(`
   <!-- TrustedForm -->
   <script type="text/javascript">
